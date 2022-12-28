@@ -63,12 +63,8 @@ main {
 }
 
 .leftmain button:hover {
-    padding: 15px 20px;
-    border: none;
     background-color: #da880e;
     color: #3b855b;
-    font-weight: 500;
-    border-radius: 10px;
 }
 
 
