@@ -64,7 +64,8 @@ main {
 
 .leftmain button:hover {
     background-color: #da880e;
-    color: #3b855b;
+    color: black;
+    text-transform: uppercase;
 }
 
 
